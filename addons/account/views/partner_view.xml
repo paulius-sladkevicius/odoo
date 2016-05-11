@@ -62,6 +62,11 @@
                             </field>
                         </group>
                         </page>
+                        <page name="note" string="Remark">
+                            <group>
+                                <field name="note" />
+                            </group>
+                        </page>
                     </notebook>
                     </sheet>
                 </form>
